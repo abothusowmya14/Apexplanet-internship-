@@ -1,0 +1,6 @@
+customer_id,name,age,city,purchase_amount,date,age_group
+1,Ravi,25,Hyd,2000,01-01-2025,Young
+2,Sita,32.25,Hyd,3000,,Adult
+3,Arun,40,Unknown,1500,,Adult
+4,Kiran,29,Chennai,2200,,Young
+5,Latha,35,Hyd,2100,06-01-2025,Adult
